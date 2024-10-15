@@ -48,3 +48,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanclak&show_icons=true&theme=tokyonight&title_color=580949&text_color=397db1&bg_color=bdb7d1&locale=en" alt="ivanclak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanclak&theme=dark" alt="ivanclak" /></p>
+
+![Imagen](https://www.emp-online.es/on/demandware.static/-/Sites/default/dwa1e67518/63853_CAT_Gaming_0618_GoW_v2.jpg)
