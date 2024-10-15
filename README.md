@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanclak" alt="ivanclak" /></a> </p>
 
+**La verdad** que se parece *bastante* a `HTML & CSS`
+
 - 🔭 Actualmente sigo trabajando en [Marketing & Graphic Design](Nuve)
 
 - 🌱 Actuamente estoy aprendiendo acerca de **Python, OracleSQL, Cloud Computing**
